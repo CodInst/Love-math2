@@ -115,15 +115,14 @@ body {
     content: attr(data-type);
     font-size: 1rem;
     color: #445361;
-    position:relative;
-    left: -0.5rem;
+    position: relative;
+    left: -0.5em;
 }
 
 .btn--blue {
     border-color: blue;
     color: blue;
 }
-
 
 .btn--blue:active,
 .btn--blue:hover {
